@@ -2,4 +2,4 @@
 
 A simple classic rock, paper, scissors game :trophy: Enjoy
 
-You do not need to install any libraries, "random" module is already built-in.
+You do not need to install any libraries to play this game 🥇
